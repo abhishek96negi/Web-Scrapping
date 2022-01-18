@@ -9,3 +9,6 @@ Web-Scrapping using Beautiful Soup and Requests
   >[Bypass Login Page](https://github.com/abhishek96negi/Web-Scrapping/blob/master/Bypass_Login_Page.ipynb)
 
   >[Yell Scrapping](https://github.com/abhishek96negi/Web-Scrapping/blob/master/Yell_Scrapping.ipynb)
+
+  >[Indeed Scrapping](https://github.com/abhishek96negi/Web-Scrapping/blob/master/Indeed_Scrapping.ipynb)
+
