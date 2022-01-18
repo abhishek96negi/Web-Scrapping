@@ -12,3 +12,8 @@ Web-Scrapping using Beautiful Soup and Requests
 
   >[Indeed Scrapping](https://github.com/abhishek96negi/Web-Scrapping/blob/master/Indeed_Scrapping.ipynb)
 
+  >[Fastest Laps Scrapping](https://github.com/abhishek96negi/Web-Scrapping/blob/master/FastestLaps_Scrapping.ipynb)
+
+
+
+
